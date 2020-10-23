@@ -1,5 +1,3 @@
-!.[協定protocol].(1.jpg)
-
 # OSI 七層
 ### 第一層 實體層(Physical Layer)
 ```
